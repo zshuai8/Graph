@@ -1,0 +1,36 @@
+insert artist1<SEP>song1
+insert artist2<SEP>song2
+insert artist3<SEP>song3
+insert artist4<SEP>song4
+insert artist3<SEP>song1
+insert artist3<SEP>song2
+insert Maroon 5<SEP>Sugar
+insert Bruno Mars<SEP>Count on me
+insert Coldplay<SEP>Yellow
+insert Coldplay<SEP>Sugar
+insert Coldplay<SEP>Viva la vida
+insert Jason Mraz<SEP>I'm yours
+insert Bruno Mars<SEP>I'm yours
+insert ABCD<SEP>XYZ
+insert QWER<SEP>XYZ
+print graph
+remove song XYZ
+print graph
+remove artist Coldplay
+remove artist DNE
+remove song what
+remove artist nothing
+remove artist asdf
+remove song Count on me
+remove artist artist1
+remove song song1
+remove artist Maroon 5
+remove song I'm yours
+remove artist 3
+remove song song1
+remove song song3
+remove song song2
+remove song Sugar
+remove song Yellow
+remove artist Jason Mraz
+print graph
